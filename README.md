@@ -1,5 +1,6 @@
 # Tesla-AppUI
 
+https://user-images.githubusercontent.com/86918112/134804987-cc15d9f3-84d8-4772-921e-abdd0602df8a.mp4
 
 
 <div align="center" style="margin: 20px; text-align: center">
@@ -22,14 +23,20 @@
 
 ##
 
+<br>
+
+## Start in your own Phone 📱
+
+The fastest way to get up and running is to use the Expo Go app on your iOS or Android device. Expo Go allows you to open up apps that are being served through Expo CLI.
+
+🤖 Android Play Store - Android Lollipop (5) and greater.
+🍎 iOS App Store - iOS 11 and greater
 
 <br>
 
 ## Project :star2:
 
 This repo contains an UI clone from Tesla App.
-
-<br>
 
 <br>
 
@@ -54,12 +61,6 @@ To start the application interface just run `npm start` or `yarn start` on the r
 
 <br>
 
-## Start in your own Phone 📱
-
-The fastest way to get up and running is to use the Expo Go app on your iOS or Android device. Expo Go allows you to open up apps that are being served through Expo CLI.
-
-🤖 Android Play Store - Android Lollipop (5) and greater.
-🍎 iOS App Store - iOS 11 and greater
 
 ## License :memo:
 
